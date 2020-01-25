@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bennett Events</string>
+    <string name="hint_resource">Subject</string>
+</resources>
